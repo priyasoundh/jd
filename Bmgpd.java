@@ -5,7 +5,7 @@ public class Bmgpd
 	{
 		Scanner sc=new Scanner(System.in);
 		int a=sc.nextInt();
-		System.out.println("working properly");
+		System.out.println("working properly priya");
 	}
 }
 
